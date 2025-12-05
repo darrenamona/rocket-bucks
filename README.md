@@ -13,3 +13,7 @@ The target users are everyday consumers who want to take control of their person
 **LLM INTEGRATION:**
 
 An LLM layer helps classify transactions, detect hidden recurring charges, and summarize spending patterns in plain language. Users can ask natural questions like “Where did most of my money go this month?” or “What subscriptions can I cancel to save more?” and get direct, actionable insights.
+<img width="1512" height="982" alt="Screenshot 2025-12-05 at 8 36 27 AM" src="https://github.com/user-attachments/assets/2e5fd43b-a8c9-4851-99fa-22ada2e35a93" />
+<img width="1512" height="982" alt="Screenshot 2025-12-05 at 8 39 51 AM" src="https://github.com/user-attachments/assets/b06601d0-8fb6-4ce4-be2b-770de072e5f7" />
+<img width="1512" height="982" alt="Screenshot 2025-12-05 at 8 40 05 AM" src="https://github.com/user-attachments/assets/29e7f383-6658-40b8-83dc-6ccfae29e052" />
+<img width="1512" height="982" alt="Screenshot 2025-12-05 at 8 40 30 AM" src="https://github.com/user-attachments/assets/78babb9a-af65-4b41-afd0-81e03e336f63" />
